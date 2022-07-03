@@ -1,6 +1,6 @@
 {
-  "name": "quick-intern-ui-temp",
-  "short_name": "quick-intern-ui-temp",
+  "name": "quick-intern",
+  "short_name": "quick-intern",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
