@@ -1,12 +1,15 @@
 import * as React from 'react'
+import RegisterStudent from '../../components/forms/RegisterStudent'
 
-import Layout from '../../components/layout'
+import AuthLayout from '../../components/layouts/AuthLayout'
 import Seo from '../../components/seo'
 
 const StudentRegisterPage = () => (
-  <Layout>
+  <AuthLayout>
     <Seo title='Student | Register' />
-  </Layout>
+    <h1 className='h3 py-5'>Join Assisted Intern</h1>
+    <RegisterStudent />
+  </AuthLayout>
 )
 
 export default StudentRegisterPage

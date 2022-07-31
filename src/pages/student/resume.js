@@ -3,10 +3,10 @@ import * as React from 'react'
 import StudentLayout from '../../components/layouts/StudentLayout'
 import Seo from '../../components/seo'
 
-const StudentProfilePage = () => (
+const StudentResumePage = () => (
   <StudentLayout>
-    <Seo title='Student | Profile' />
+    <Seo title='Student | CV' />
   </StudentLayout>
 )
 
-export default StudentProfilePage
+export default StudentResumePage

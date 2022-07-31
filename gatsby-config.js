@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Quick Intern`,
-    description: `Quick Intern: Find internships, jobs in Ghana`,
+    title: `Assisted Intern`,
+    description: `Assisted Intern: Find internships, jobs in Ghana`,
     author: `@taytonyeli`,
   },
   plugins: [
